@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Channel Verification Bot Studio",
+  "description": "Complete Python Telegram Channel Join Verification Bot project with one-tap file downloads, live interactive bot simulator, and beginner-friendly Android deployment guide for GitHub and Railway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
